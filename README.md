@@ -32,15 +32,39 @@ The application transitions from a monolithic structure to a highly modular arch
 ## 💻 Game Preview
 
 ```text
+How Many Questions Do you Want to Answer ? ->> 3
+Enter Questions Level  { Easy = 1, Med = 2, Hard = 3, Mix = 4 } ->> 4
+Enter Operation Type { Add = 1, Sub = 2, Mul = 3, Div = 4, Mix = 5 } ->> 5
 Question [1/3].
-45 * 12 = 540
+48 / 39 = 1
 
-Right Answer :) 
+Right Answer :)
 ---------------
 
 Question [2/3].
-88 - 19 = 60
+57 + 49 = 106
 
-Wrong Answer :( 
-The Right Answer Is [69].
+Right Answer :)
+---------------
+
+Question [3/3].
+434 - 207 = 227
+
+Right Answer :)
+---------------
+
+                        --------------------------------------------------------------
+                                                G a m e  O v e r
+                        --------------------------------------------------------------
+                        ----------------------[Quiz Results]--------------------------
+                                                Passed ^_~
+                        --------------------------------------------------------------
+                        Number of Questions : 3
+                        Questions Level : Mix
+                        Operations Type : Mix +-*/
+                        Number of Right Answers : 3
+                        Number of Wrong Answers : 0
+                        --------------------------------------------------------------
+
+Do You want to play again ? [Y/N] :
 ----------------------------
