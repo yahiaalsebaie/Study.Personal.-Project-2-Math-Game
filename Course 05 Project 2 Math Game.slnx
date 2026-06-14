@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Course 05 Project 2 Math Game/Course 05 Project 2 Math Game.vcxproj" />
+  <Project Path="Course 05 Project 2 Math Game/Course 05 Project 2 Math Game.vcxproj" Id="fc49da80-087c-4e57-808d-212550ebc520" />
 </Solution>
